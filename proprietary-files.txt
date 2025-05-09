@@ -1109,6 +1109,10 @@ odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_2.txt
 odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_3.txt
 vendor/etc/df_default.xml
 
+# Dolby configs
+odm/etc/dolby/dax-default.xml
+odm/etc/dolby_vision.cfg
+
 # eUICC - from lynx-user 14 UQ1A.240105.004
 product/priv-app/EuiccGoogle/EuiccGoogle.apk|29f8c2d4301cc1c0c023dd1c205cfdec5bfc73aa;PRESIGNED
 
